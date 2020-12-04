@@ -1,4 +1,4 @@
-package com.neu.project3.raft.requests;
+package com.neu.project3.raft.models;
 
 import com.neu.project3.raft.models.LogEntry;
 import lombok.Getter;

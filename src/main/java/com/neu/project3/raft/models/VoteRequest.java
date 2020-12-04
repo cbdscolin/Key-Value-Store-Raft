@@ -1,4 +1,4 @@
-package com.neu.project3.raft.requests;
+package com.neu.project3.raft.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

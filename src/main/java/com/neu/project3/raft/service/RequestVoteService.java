@@ -1,8 +1,8 @@
 package com.neu.project3.raft.service;
 
 import com.neu.project3.raft.models.State;
-import com.neu.project3.raft.requests.VoteRequest;
-import com.neu.project3.raft.responses.VoteResponse;
+import com.neu.project3.raft.models.VoteRequest;
+import com.neu.project3.raft.models.VoteResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

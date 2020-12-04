@@ -2,8 +2,8 @@ package com.neu.project3.raft.manager;
 
 import com.neu.project3.raft.factory.HttpEntityFactory;
 import com.neu.project3.raft.factory.HttpHeadersFactory;
-import com.neu.project3.raft.requests.AppendEntryRequest;
-import com.neu.project3.raft.responses.AppendEntryResponse;
+import com.neu.project3.raft.models.AppendEntryRequest;
+import com.neu.project3.raft.models.AppendEntryResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;

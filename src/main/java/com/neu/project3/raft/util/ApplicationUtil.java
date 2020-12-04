@@ -12,10 +12,6 @@ public final class ApplicationUtil {
         appContext = context;
     }
 
-//    public static <T> T getBean(Class<T> type) {
-//        return appContext.getBean(type);
-//    }
-
     public static String getProperty(String key) {
         return appContext.getEnvironment().getProperty(key);
     }
